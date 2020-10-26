@@ -1,0 +1,7 @@
+﻿{
+    "Project": "bin\\Windows\\x86\\Debug\\YOUR_EXE_HERE.exe",
+    "Scenes": "bin\\Windows\\x86\\Debug\\Scenes\\",
+    "Entity": "bin\\Windows\\x86\\Debug\\Entity\\",
+    "Scripts": "bin\\Windows\\x86\\Debug\\Scripts\\",
+    "Content": "bin\\Windows\\x86\\Debug\\Textures\\"
+}
